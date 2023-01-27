@@ -1,1 +1,1 @@
-Just some studies with React
+Just some studies about React
